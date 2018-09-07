@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5bd43222-b1d9-44c5-bc2c-b3dc8224c3b5" name="Default" comment="" />
+    <list default="true" id="5bd43222-b1d9-44c5-bc2c-b3dc8224c3b5" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/chapter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/certificate2.png" afterPath="$PROJECT_DIR$/asset/certificate2.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/asset/certificate5.png" afterPath="$PROJECT_DIR$/asset/certificate5.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/certification.html" afterPath="$PROJECT_DIR$/certification.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comcast.html" afterPath="$PROJECT_DIR$/comcast.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coursework.html" afterPath="$PROJECT_DIR$/coursework.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/comcast.css" afterPath="$PROJECT_DIR$/css/comcast.css" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -15,8 +24,8 @@
       <file leaf-file-name="comcast.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comcast.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+            <state relative-caret-position="238">
+              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#4;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -49,8 +58,8 @@
       <file leaf-file-name="coursework.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coursework.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="119">
+              <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -70,8 +79,18 @@
       <file leaf-file-name="certification.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/certification.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="219">
-              <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+            <state relative-caret-position="119">
+              <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="chapter.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/chapter.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="366" column="38" lean-forward="true" selection-start-line="366" selection-start-column="38" selection-end-line="366" selection-end-column="54" />
               <folding />
             </state>
           </provider>
@@ -80,8 +99,8 @@
       <file leaf-file-name="comcast.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/comcast.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="1012" column="16" lean-forward="true" selection-start-line="1012" selection-start-column="16" selection-end-line="1012" selection-end-column="16" />
+            <state relative-caret-position="504">
+              <caret line="1433" column="18" lean-forward="false" selection-start-line="1433" selection-start-column="18" selection-end-line="1433" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -110,36 +129,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.utilization_coursework</find>
-      <find>upper</find>
-      <find>look</find>
-      <find>prof</find>
-      <find>container_te</find>
-      <find>.primary_wrapper .history_detail&gt;div</find>
-      <find>.primary_wrapper .history_detail .flex_wrapper</find>
-      <find>.primary_wrapper .container_txt .triangle-left</find>
-      <find>.primary_wrapper .container_txt button</find>
-      <find>.primary_wrapper .history_detail .flex_wrapper p</find>
-      <find>.primary_wrapper .container_txt</find>
-      <find>triangle</find>
-      <find>histo</find>
-      <find>primary_container</find>
-      <find>.footer_text ul</find>
-      <find>logo</find>
-      <find>h3.</find>
-      <find>.primary_wrapper .history_detail .flex_wrapper .date_text p</find>
-      <find>18 month</find>
-      <find>right_side</find>
-      <find>.section_two .header_text h1</find>
-      <find>.header_section .nav_container div:nth-child(1) .coursework_list li .active</find>
-      <find>coursework_l</find>
-      <find>.header_section .nav_container div:nth-child(3) .sky_color</find>
-      <find>background_img4</find>
-      <find>background_img5</find>
-      <find>five mo</find>
       <find>five</find>
-      <find>home</find>
       <find>after</find>
+      <find>change_container</find>
+      <find>.header_section .trad_container .upper_container</find>
+      <find>.background_img4</find>
+      <find>.header_section .trad_container .orange_container</find>
+      <find>.header_section .inner_container .fa</find>
+      <find>background_img5</find>
+      <find>fa-ex</find>
+      <find>.header_section .nav_container .logo_container h1</find>
+      <find>.header_section .nav_container .logo_container p</find>
+      <find>upper</find>
+      <find>.header_section .nav_container div:nth-child(1) .coursework_list li .active</find>
+      <find>logo_container</find>
+      <find>home</find>
+      <find>course</find>
+      <find>.header_section .nav_container div:nth-child(3) .pink_clr</find>
+      <find>chapter_co</find>
+      <find>img5</find>
+      <find>.chapter_img2</find>
+      <find>your</find>
+      <find>.section_utilization .container_r_graph ul li:nth-child(3)</find>
+      <find>option</find>
+      <find>.section_two .header_text h1</find>
+      <find>team completion</find>
+      <find>Team Completion</find>
+      <find>68</find>
+      <find>chapter</find>
+      <find>.section_two .chat_box_chapter h3</find>
+      <find>.section_two .primary_chat&gt;div:nth-child(even) .chat_box_chapter</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,6 +175,7 @@
         <option value="$PROJECT_DIR$/comcast.html" />
         <option value="$PROJECT_DIR$/coursework.html" />
         <option value="$PROJECT_DIR$/certification.html" />
+        <option value="$PROJECT_DIR$/chapter.html" />
         <option value="$PROJECT_DIR$/css/comcast.css" />
       </list>
     </option>
@@ -189,8 +209,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -219,6 +237,8 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,6 +246,7 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://C:/Users/FaZi/Desktop/comcast/chapter.html" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -410,27 +431,43 @@
       <workItem from="1536313662737" duration="1747000" />
       <workItem from="1536315489587" duration="1792000" />
       <workItem from="1536317334723" duration="1799000" />
-      <workItem from="1536319185999" duration="1244000" />
+      <workItem from="1536319185999" duration="1458000" />
+      <workItem from="1536322821093" duration="1718000" />
+      <workItem from="1536324701814" duration="1738000" />
+      <workItem from="1536327291284" duration="1477000" />
+      <workItem from="1536329229376" duration="1723000" />
+      <workItem from="1536331071430" duration="1710000" />
+      <workItem from="1536333329305" duration="776000" />
+      <workItem from="1536336712033" duration="1724000" />
+      <workItem from="1536338673502" duration="1747000" />
+      <workItem from="1536340562547" duration="1787000" />
+      <workItem from="1536342582424" duration="1771000" />
+      <workItem from="1536344481964" duration="1726000" />
+      <workItem from="1536346702571" duration="1738000" />
+      <workItem from="1536348647307" duration="1728000" />
+      <workItem from="1536350718901" duration="1666000" />
+      <workItem from="1536352680442" duration="718000" />
+      <workItem from="1536358673394" duration="1466000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="154367000" />
+    <option name="totallyTimeSpent" value="179794000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -451,14 +488,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/css/comcast.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3434">
-          <caret line="202" column="1" lean-forward="false" selection-start-line="202" selection-start-column="1" selection-end-line="202" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/comcast.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1294,19 +1323,38 @@
     <entry file="file://$PROJECT_DIR$/asset/comcast.html" />
     <entry file="file://$PROJECT_DIR$/asset/style.css" />
     <entry file="file://$PROJECT_DIR$/css/style.css" />
-    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
+    <entry file="file://$PROJECT_DIR$/css/certification.html" />
+    <entry file="file://$PROJECT_DIR$/certification.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7956">
-          <caret line="468" column="0" lean-forward="false" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="0" />
+        <state relative-caret-position="119">
+          <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/certification.html" />
+    <entry file="file://$PROJECT_DIR$/coursework.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#1;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#1;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#2;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#2;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#3;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#3;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#4;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#4;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/comcast.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="28" column="43" lean-forward="false" selection-start-line="28" selection-start-column="43" selection-end-line="28" selection-end-column="43" />
+        <state relative-caret-position="238">
+          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#4;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1335,37 +1383,26 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/coursework.html">
+    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#1;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#1;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#2;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#2;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#3;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#3;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#4;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#4;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="7956">
+          <caret line="468" column="0" lean-forward="false" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/certification.html">
+    <entry file="file://$PROJECT_DIR$/chapter.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="30" column="51" lean-forward="false" selection-start-line="30" selection-start-column="51" selection-end-line="30" selection-end-column="51" />
+        <state relative-caret-position="272">
+          <caret line="366" column="38" lean-forward="true" selection-start-line="366" selection-start-column="38" selection-end-line="366" selection-end-column="54" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/comcast.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="1012" column="16" lean-forward="true" selection-start-line="1012" selection-start-column="16" selection-end-line="1012" selection-end-column="16" />
+        <state relative-caret-position="504">
+          <caret line="1433" column="18" lean-forward="false" selection-start-line="1433" selection-start-column="18" selection-end-line="1433" selection-end-column="18" />
           <folding />
         </state>
       </provider>
