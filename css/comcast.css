@@ -743,10 +743,16 @@
     margin-left: 45px;
 }
 .profile_container .inner_profile{
-    width:120px;
-    height:120px;
+    width:140px;
+    height:140px;
     border-radius: 50%;
     position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-right: 6px solid red;
+    border-bottom: 6px solid red;
+    transform: rotate(40deg)
 }
 .profile_container .inner_profile img{
     width:120px!important;
@@ -754,6 +760,7 @@
     border-radius: 50%!important;
     margin-left: 0px!important;
     margin-top: 0px!important;
+    transform: rotate(320deg)
 }
 .profile_container .upper_profile{
     background: #BD10E0;
