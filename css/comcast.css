@@ -25,11 +25,13 @@
     border-radius: 50%;
     border:1px solid #fff;
     padding: 0px;
-    margin-left: 32px;
+    margin-left: 19px;
     overflow: hidden;
 }
 .header_section .nav_container .logo_container img{
-    width:100%;
+    width: 83px;
+    height: 83px;
+    border-radius: 50%;
 }
 .header_section .nav_container .logo_container h1{
     margin-top:0px;
@@ -54,6 +56,9 @@
     margin-top:10px;
     padding:0px;
     font-size:14px;
+}
+.header_section .nav_container div:nth-child(1) .ul_list{
+    margin-top:0px;
 }
 .header_section .nav_container div:nth-child(1) ul li{
     float:left;
@@ -143,6 +148,9 @@
 .header_section .trad_container{
     display: flex;
     margin-top:10px;
+}
+.header_section .first_container{
+    margin-top:-3px;
 }
 .header_section .trad_container>div{
     width:20%;
@@ -427,14 +435,21 @@
 
 }
 .header_section .upper_container .list_bottom ul{
-    padding:0px;
+    padding: 0px;
     list-style-type: none;
-    margin-left:50px;
+    margin-left: 19px;
+    margin-top: 13px;
+    font-family: "Open Sans";
+    font-weight: lighter;
+}
+.header_section .upper_container .list_bottom ul .div_upper{
+    opacity: 0.5;
 }
 .header_section  .upper_container .list_bottom ul li{
     color:#fff;
-    font-weight: bold;
     padding:14px 0px;
+    font-family: "Open Sans";
+    font-weight: normal;
 }
 .header_section  .upper_container .list_bottom ul li a{
     color:#fff;
