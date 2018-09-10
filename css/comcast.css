@@ -665,6 +665,8 @@
 }
 .section_utilization .container_r_graph h3{
     color:#C1C4CB;
+    font-size:24px;
+    margin:10px 0px;
 }
 .section_utilization .container_r_graph ul{
     list-style-type: none;
