@@ -1507,7 +1507,7 @@
 .section_two .chapter_chatter .chatter_second{
     background: #457BBE;
     margin-top: 71px;
-    width: 100%;
+    width: 93%;
     position: absolute;
 }
 .section_two .chapter_chatter .chatter_second::after{
@@ -1531,7 +1531,7 @@
     border-left:0px solid transparent;
     border-right: 49px solid transparent;
     position: absolute;
-    left:152px;
+    left:85px;
     right:99%;
     margin-top: 46px;
 }
@@ -1539,11 +1539,12 @@
     background:#455068;
     margin-top:74px;
     position:absolute;
+    width:100%
 }
 .section_two .chapter_chatter .chatter_four::after{
     border-top: 47px solid #455068;
-    border-left:0px solid transparent;
-    border-right: 49px solid transparent;
+    border-left:49px solid transparent;
+    border-right: 0px solid transparent;
     position: absolute;
     left:152px;
     right:99%;
