@@ -94,7 +94,7 @@
     list-style-type: none;
     margin-top:10px;
     padding:0px;
-    padding-left:10px;
+    padding-left:38px;
 }
 .header_section .nav_container div:nth-child(2) ul li{
     float:left;
@@ -107,11 +107,11 @@
     font-size:14px;
 }
 .header_section .nav_container div:nth-child(2) ul li:last-child{
-    font-size:11px;
-    padding-top:3px;
+    padding-top:2px;
 }
 .header_section .nav_container div:nth-child(2) ul li:last-child a{
     color:#dde3f1;
+    font-size:12px;
 }
 .header_section .nav_container div:nth-child(2) ul li a:hover{
     text-decoration: none;
@@ -1002,8 +1002,13 @@
     top:-68px;
 }
 .comcast_page_section .main_container{
-    position: relative;
+    position: absolute;
     top: -349px;
+    width: 100%;
+}
+.comcast_page_section .primary_main{
+    position: relative;
+    width:100%;
 }
 .section_two .progress-bar{
     border-radius: 10px;
