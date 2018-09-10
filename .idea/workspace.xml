@@ -3,6 +3,10 @@
   <component name="ChangeListManager">
     <list default="true" id="5bd43222-b1d9-44c5-bc2c-b3dc8224c3b5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/certification.html" afterPath="$PROJECT_DIR$/certification.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter.html" afterPath="$PROJECT_DIR$/chapter.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comcast.html" afterPath="$PROJECT_DIR$/comcast.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/coursework.html" afterPath="$PROJECT_DIR$/coursework.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/comcast.css" afterPath="$PROJECT_DIR$/css/comcast.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +19,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="comcast.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="comcast.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/comcast.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+            <state relative-caret-position="236">
+              <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#div#1;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#4;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -52,8 +56,8 @@
       <file leaf-file-name="coursework.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/coursework.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+            <state relative-caret-position="236">
+              <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -73,8 +77,8 @@
       <file leaf-file-name="certification.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/certification.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+            <state relative-caret-position="236">
+              <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding />
             </state>
           </provider>
@@ -83,18 +87,18 @@
       <file leaf-file-name="chapter.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/chapter.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6222">
-              <caret line="366" column="38" lean-forward="false" selection-start-line="366" selection-start-column="38" selection-end-line="366" selection-end-column="54" />
+            <state relative-caret-position="236">
+              <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comcast.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="comcast.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/comcast.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="491">
-              <caret line="762" column="25" lean-forward="false" selection-start-line="762" selection-start-column="25" selection-end-line="762" selection-end-column="25" />
+            <state relative-caret-position="202">
+              <caret line="1104" column="38" lean-forward="false" selection-start-line="1104" selection-start-column="38" selection-end-line="1104" selection-end-column="38" />
               <folding />
             </state>
           </provider>
@@ -123,36 +127,36 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>five</find>
-      <find>after</find>
-      <find>change_container</find>
-      <find>.header_section .trad_container .upper_container</find>
-      <find>.background_img4</find>
-      <find>.header_section .trad_container .orange_container</find>
-      <find>.header_section .inner_container .fa</find>
-      <find>background_img5</find>
-      <find>fa-ex</find>
-      <find>.header_section .nav_container .logo_container h1</find>
-      <find>.header_section .nav_container .logo_container p</find>
-      <find>upper</find>
-      <find>.header_section .nav_container div:nth-child(1) .coursework_list li .active</find>
-      <find>logo_container</find>
-      <find>home</find>
-      <find>course</find>
-      <find>.header_section .nav_container div:nth-child(3) .pink_clr</find>
-      <find>chapter_co</find>
-      <find>img5</find>
-      <find>.chapter_img2</find>
-      <find>your</find>
-      <find>.section_utilization .container_r_graph ul li:nth-child(3)</find>
-      <find>option</find>
       <find>.section_two .header_text h1</find>
       <find>team completion</find>
       <find>Team Completion</find>
       <find>68</find>
-      <find>chapter</find>
       <find>.section_two .chat_box_chapter h3</find>
       <find>.section_two .primary_chat&gt;div:nth-child(even) .chat_box_chapter</find>
+      <find>bottom</find>
+      <find>.profile_container .inner_profile</find>
+      <find>inner_pro</find>
+      <find>.section_two .primary_chat&gt;div:last-child .chat_box_chapter::after</find>
+      <find>.section_two .foot_img</find>
+      <find>header_text team_txt</find>
+      <find>header_text team</find>
+      <find>.header_section .nav_container div:nth-child(2) ul li a</find>
+      <find>section_u</find>
+      <find>chapter_img</find>
+      <find>ex_p</find>
+      <find>HEADER</find>
+      <find>header_</find>
+      <find>hotes</find>
+      <find>chapter</find>
+      <find>15</find>
+      <find>.section_two .chapter_chatter .chatter_second::after</find>
+      <find>thank</find>
+      <find>coursework_</find>
+      <find>certificat</find>
+      <find>profe</find>
+      <find>coursework_img</find>
+      <find>home</find>
+      <find>Home</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -166,11 +170,11 @@
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/javaScript.js" />
         <option value="$PROJECT_DIR$/css/certification.html" />
-        <option value="$PROJECT_DIR$/comcast.html" />
-        <option value="$PROJECT_DIR$/coursework.html" />
-        <option value="$PROJECT_DIR$/certification.html" />
-        <option value="$PROJECT_DIR$/chapter.html" />
         <option value="$PROJECT_DIR$/css/comcast.css" />
+        <option value="$PROJECT_DIR$/chapter.html" />
+        <option value="$PROJECT_DIR$/certification.html" />
+        <option value="$PROJECT_DIR$/coursework.html" />
+        <option value="$PROJECT_DIR$/comcast.html" />
       </list>
     </option>
   </component>
@@ -203,6 +207,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -231,8 +237,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -442,15 +446,25 @@
       <workItem from="1536350718901" duration="1666000" />
       <workItem from="1536352680442" duration="718000" />
       <workItem from="1536358673394" duration="2409000" />
-      <workItem from="1536361401537" duration="775000" />
+      <workItem from="1536361401537" duration="859000" />
+      <workItem from="1536424816203" duration="1779000" />
+      <workItem from="1536426753930" duration="1819000" />
+      <workItem from="1536428772909" duration="1748000" />
+      <workItem from="1536430635087" duration="1248000" />
+      <workItem from="1536562988601" duration="1771000" />
+      <workItem from="1536564955859" duration="1443000" />
+      <workItem from="1536567071253" duration="1818000" />
+      <workItem from="1536568969930" duration="1318000" />
+      <workItem from="1536570856492" duration="1529000" />
+      <workItem from="1536572736292" duration="154000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="181512000" />
+    <option name="totallyTimeSpent" value="196223000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24963397" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -1319,18 +1333,42 @@
     <entry file="file://$PROJECT_DIR$/asset/style.css" />
     <entry file="file://$PROJECT_DIR$/css/style.css" />
     <entry file="file://$PROJECT_DIR$/css/certification.html" />
+    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="7956">
+          <caret line="468" column="0" lean-forward="false" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/comcast.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="1104" column="38" lean-forward="false" selection-start-line="1104" selection-start-column="38" selection-end-line="1104" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/chapter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="236">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/certification.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        <state relative-caret-position="236">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/coursework.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="100" lean-forward="false" selection-start-line="7" selection-start-column="100" selection-end-line="7" selection-end-column="100" />
+        <state relative-caret-position="236">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1348,8 +1386,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/comcast.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="14" column="7" lean-forward="false" selection-start-line="14" selection-start-column="7" selection-end-line="14" selection-end-column="7" />
+        <state relative-caret-position="236">
+          <caret line="32" column="45" lean-forward="false" selection-start-line="32" selection-start-column="45" selection-end-line="32" selection-end-column="45" />
           <folding>
             <element signature="n#style#0;n#div#1;n#div#0;n#li#3;n#ul#0;n#div#2;n#div#4;n#div#0;n#div#3;n#div#1;n#div#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#0;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -1375,30 +1413,6 @@
             <element signature="n#style#0;n#div#0;n#div#0;n#li#1;n#ul#10;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#li#2;n#ul#10;n#div#4;n#div#0;n#div#1;n#div#0;n#section#2;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7956">
-          <caret line="468" column="0" lean-forward="false" selection-start-line="468" selection-start-column="0" selection-end-line="468" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/chapter.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="6222">
-          <caret line="366" column="38" lean-forward="false" selection-start-line="366" selection-start-column="38" selection-end-line="366" selection-end-column="54" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/comcast.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="491">
-          <caret line="762" column="25" lean-forward="false" selection-start-line="762" selection-start-column="25" selection-end-line="762" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
