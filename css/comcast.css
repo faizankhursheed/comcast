@@ -179,7 +179,7 @@
 .header_section .trad_container .text_container h5{
     color:#fff;
     font-size:35px;
-    padding-left: 40px;
+    padding-left: 34px;
     margin-top:6px;
     margin-bottom:0px;
     font-family: 'Open Sans', sans-serif;
@@ -206,6 +206,9 @@
     top: -30px;
     right: 14px;
     font-size: 33px;
+}
+.header_section .trad_container .extra_container h5{
+    padding-left:45px;
 }
 .header_section .trad_container .extra_class{
     position: relative;
@@ -252,6 +255,7 @@
     font-weight: lighter;
     opacity: 0.7;
     padding-top: 8px;
+    padding-left:6px;
 }
 
 .header_section .trad_container .upper_container .fa-close{
@@ -379,12 +383,12 @@
 .header_section .trad_container .upper_container .calender_container .head_text{
     display: flex;
     justify-content: space-between;
-    padding:10px;
+    padding:10px 18px;
 }
 .header_section .trad_container .upper_container .calender_container .foot_text{
     display: flex;
     justify-content: space-between;
-    padding:0px 10px;
+    padding:0px 18px;
 }
 .header_section .trad_container .upper_container .calender_container .extra_foot_text{
     padding-top:20px;
@@ -436,6 +440,8 @@
 }
 .header_section .upper_container .graph_container{
     margin-top:20px;
+    background-image: url("../asset/grph.png");
+    background-size:cover;
 }
 .header_section .upper_container .graph_container ul li:first-child{
     font-size:27px;
@@ -463,8 +469,12 @@
     background-color:rgba(254, 172, 44, 0.9);
     top:44px;
 }
+.header_section .trad_container .orange_container .orange_txt{
+    padding:28px 0px;
+}
 .header_section .trad_container .blue_container{
     background-color:rgba(0, 117, 213, 0.9);
+    top:66px;
 }
 .header_section .trad_container .purple_container{
     background-color: rgba(84, 78, 159, 0.9);
@@ -550,10 +560,9 @@
     background-image: url("../asset/S1.png");
     background-repeat: no-repeat;
     background-size:cover;
-    padding:10px;
-    padding-top: 51px;
     top:-1px;
     width:100%;
+    padding: 51px 16px 10px 16px;
 }
 .header_section .trad_container>div:nth-child(1) {
     position: relative;
@@ -564,10 +573,9 @@
     background-repeat: no-repeat;
     position: absolute;
     background-size: cover;
-    padding: 10px;
     top: -53px;
-    padding-top: 104px;
     width: 100%;
+    padding: 104px 16px 10px 16px;
 }
 .header_section .trad_container>div:nth-child(2){
     position: relative;
@@ -577,10 +585,9 @@
     background-repeat: no-repeat;
     position: absolute;
     background-size: cover;
-    padding: 10px;
     top: -56px;
-    padding-top: 107px;
     width: 100%;
+    padding: 107px 16px 10px 16px;
 }
 .header_section .trad_container>div:nth-child(3){
     position: relative;
@@ -590,10 +597,9 @@
     background-repeat: no-repeat;
     position: absolute;
     background-size: cover;
-    padding: 10px;
     top: -16px;
-    padding-top: 67px;
     width: 100%;
+    padding: 67px 16px 10px 16px;
 }
 .header_section .trad_container>div:nth-child(4){
     position: relative;
@@ -606,11 +612,9 @@
     background-repeat: no-repeat;
     position: absolute;
     background-size: cover;
-    padding: 10px;
     top: -16px;
-    padding-top: 62px;
-    padding-bottom: 7px;
     width: 100%;
+    padding: 62px 16px 7px 16px;
 }
 .header_section .trad_container>div:nth-child(5){
     position:relative;
@@ -648,7 +652,7 @@
 }
 
 .section_utilization .inner_container{
-    margin-top:40px;
+    margin-top:30px;
 }
 .section_utilization .header_text h3{
     color:#DCDEE1;
@@ -668,22 +672,26 @@
 .section_utilization .option_container{
     display: flex;
 }
+.section_utilization .footer_empty{
+    min-height: 180px;
+    background-image: url("../asset/bg_image.png");
+}
 .section_utilization .option_container>div:last-child{
     padding-left:83px;
 }
 .section_utilization .container_r_graph h3{
     color:#C1C4CB;
-    font-size:24px;
+    font-size:19px;
     margin:10px 0px;
 }
 .section_utilization .container_r_graph ul{
     list-style-type: none;
     padding:0px;
     margin:0px;
-    width:60%;
+    width:47%;
     display: flex;
     justify-content: space-between;
-    font-size:14px;
+    font-size:12px;
 }
 .section_utilization .progress_image{
     margin-top: 5px;
@@ -697,7 +705,7 @@
     width: 190px;
     height: 190px;
     margin-left: 24px;
-    margin-top: 21px;
+    margin-top: 0px;
 }
 .img_other{
     background-image: linear-gradient(#242d4200, #3e475f00)!important;
@@ -902,7 +910,7 @@
 }
 .section_two .click_to_show{
     position: absolute;
-    top:94px;
+    top:76px;
     width:96%;
     background-color:rgba(37, 45, 62, 0.9);
     z-index: 1;
@@ -988,6 +996,14 @@
     border-radius: 10px;
     height: 16px;
     margin-bottom: 15px;
+}
+.section_two .comcast_page{
+    position: relative;
+    top:-68px;
+}
+.comcast_page_section .main_container{
+    position: relative;
+    top: -349px;
 }
 .section_two .progress-bar{
     border-radius: 10px;
@@ -1367,7 +1383,7 @@
 }
 .header_section .chapter_container .time_text h5{
     font-size:70px;
-    color#fff;
+    color:#fff;
     opacity: 1;
     font-family: 'Open Sans', sans-serif;
     font-weight: lighter;
