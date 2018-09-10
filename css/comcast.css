@@ -29,9 +29,7 @@
     overflow: hidden;
 }
 .header_section .nav_container .logo_container img{
-    width: 83px;
-    height: 83px;
-    border-radius: 50%;
+    width: 100%;
 }
 .header_section .nav_container .logo_container h1{
     margin-top:0px;
