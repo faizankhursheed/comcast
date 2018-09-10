@@ -34,18 +34,21 @@
 .header_section .nav_container .logo_container h1{
     margin-top:0px;
     color:#fff;
-    font-size:54px;
+    font-size:57px;
     font-family: 'Old Standard TT', serif;
 
 }
 .header_section .nav_container .logo_container p{
     color: #fff;
-    padding-left: 22px;
-    font-size: 15px;
-    padding-top: 12px;
+    padding-left: 15px;
+    font-size: 19px;
+    padding-top: 14px;
     font-family: 'Old Standard TT', serif;
-    line-height: 1.2;
-}
+    line-height: 0.9;
+}.header_section .nav_container .logo_container p span{
+    font-size:12px;
+ }
+
 .header_section .nav_container div:nth-child(1) ul{
     list-style-type: none;
     margin-top:10px;
@@ -60,6 +63,7 @@
     padding:4px 10px;
     margin:5px;
     color:#fff;
+    opacity:0.9;
 }
 .header_section .nav_container div:nth-child(1) ul li .active{
     border-top:3px solid #F5A623;
@@ -72,7 +76,6 @@
 .header_section .nav_container div:nth-child(2){
     display: flex;
     padding-top:14px;
-    padding-right:38px;
 }
 .header_section .nav_container div:nth-child(2)>div{
     margin-top: 11px;
@@ -82,7 +85,7 @@
     border-radius:40px;
     background-color:#323B52;
     font-size:12px;
-    padding: 10px 16px;
+    padding: 12px 23px;
 }
 .header_section .nav_container div:nth-child(2) .btn_dashboard:focus{
     outline: none;
@@ -91,6 +94,7 @@
     list-style-type: none;
     margin-top:10px;
     padding:0px;
+    padding-left:10px;
 }
 .header_section .nav_container div:nth-child(2) ul li{
     float:left;
@@ -99,12 +103,15 @@
     float:left;
     padding:4px 10px;
     margin:5px;
-    color:#fff;
+    color:#EFF0F2;
     font-size:14px;
 }
 .header_section .nav_container div:nth-child(2) ul li:last-child{
     font-size:11px;
     padding-top:3px;
+}
+.header_section .nav_container div:nth-child(2) ul li:last-child a{
+    color:#dde3f1;
 }
 .header_section .nav_container div:nth-child(2) ul li a:hover{
     text-decoration: none;
@@ -114,7 +121,6 @@
     text-align: right;
     font-size:22px;
     margin-bottom: 22px;
-    margin-top: 22px;
     font-family: 'Old Standard TT', serif;
 }
 .header_section .nav_container div:nth-child(3) p:nth-child(2){
