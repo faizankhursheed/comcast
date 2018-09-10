@@ -1135,6 +1135,12 @@
     transform: translate(-50%);
     z-index: 1;
 }
+.primary_wrapper .last_detail>.flex_wrapper:after{
+    height: 99px;
+}
+.primary_wrapper .history_detail>.flex_wrapper{
+
+}
 .history_main_wrapper{
     margin-top:9px;
 }
