@@ -477,8 +477,9 @@
     font-size:20px;
     margin-right:50px;
 }
-.header_section  .bottom_text .fa{
-    color:#fff;
+.header_section  .bottom_text img{
+    width: 15px;
+    height: 17px;
 }
 .header_section .trad_container .pink_container{
     background-color:rgba(225, 13, 89,0.9);
