@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5bd43222-b1d9-44c5-bc2c-b3dc8224c3b5" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/chapter.html" afterPath="$PROJECT_DIR$/chapter.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/comcast.css" afterPath="$PROJECT_DIR$/css/comcast.css" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -94,8 +92,8 @@
       <file leaf-file-name="comcast.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/comcast.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="1525" column="14" lean-forward="false" selection-start-line="1525" selection-start-column="14" selection-end-line="1525" selection-end-column="14" />
+            <state relative-caret-position="304">
+              <caret line="179" column="25" lean-forward="false" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -455,12 +453,12 @@
       <workItem from="1536570856492" duration="1529000" />
       <workItem from="1536572736292" duration="1766000" />
       <workItem from="1536574603099" duration="1744000" />
-      <workItem from="1536576481472" duration="424000" />
+      <workItem from="1536576481472" duration="651000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="200003000" />
+    <option name="totallyTimeSpent" value="200230000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
@@ -1409,8 +1407,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/css/comcast.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="1525" column="14" lean-forward="false" selection-start-line="1525" selection-start-column="14" selection-end-line="1525" selection-end-column="14" />
+        <state relative-caret-position="304">
+          <caret line="179" column="25" lean-forward="false" selection-start-line="179" selection-start-column="25" selection-end-line="179" selection-end-column="25" />
           <folding />
         </state>
       </provider>

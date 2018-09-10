@@ -176,6 +176,8 @@
     padding-left: 40px;
     margin-top:6px;
     margin-bottom:0px;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: lighter;
 }
 .header_section .trad_container .text_container h5 span{
     font-size:77px;
