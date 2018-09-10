@@ -634,10 +634,11 @@
     border-radius: 10px;
     margin: 1px;
 }
-.section_utilization{
+.section_utilization .img_container{
     background-image: url("../asset/bg.png");
     background-size: 100% 100%;
 }
+
 .section_utilization .inner_container{
     margin-top:40px;
 }
@@ -1308,6 +1309,11 @@
 /* page coursework End */
 
 /* page certification Start */
+.certificate_bg{
+    background: linear-gradient(rgba(123, 116, 116, 0.6), rgba(0, 0, 0, 0.6)), linear-gradient(223deg, rgba(96, 105, 126, 0.5), rgba(0, 0, 0, 0.5)), url(../asset/sea.jpg) no-repeat;
+    background-size: cover;
+    background-position: center;
+}
 .certificate_img{
     background-image: url(../asset/bg2.png);
     background-repeat: no-repeat;
@@ -1388,6 +1394,7 @@
 .section_utilization .ex_p{
     padding-bottom:20px;
 }
+
 .section_utilization .ex_p .inner_container{
     margin-top:5px;
 }
