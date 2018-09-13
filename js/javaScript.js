@@ -5,6 +5,22 @@ $(document).ready(function(){
     $(".add_more").click(function(){
         $(".click_to_show").show();
     });
+
+    $(".click-div").on('click',function(){
+        $('.upper_container').fadeOut();
+        $(this).parent().find('.upper_container').fadeIn();
+    });
+    $('.text_upper i').on('click', function () {
+        $('.upper_container').fadeOut();
+    })
+
+    $(".popup_dots ").on('click',function(){
+        $('.popup_inner').fadeOut();
+        $(this).parent().find('.popup_inner').fadeIn();
+    });
+    $('.icon_close i').on('click', function () {
+        $('.popup_inner').fadeOut();
+    })
 });
 
 
@@ -153,7 +169,7 @@ const StartOfWeek = {
     'tr-TR': 1,
     'tr': 1,
     'uk-UA': 1,
-    'uk': 1,
+    'uk': 1
 };
 
 /*
@@ -466,3 +482,8 @@ window.onload = () => {
     });
     }
 };
+
+
+
+
+

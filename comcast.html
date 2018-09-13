@@ -4,11 +4,12 @@
     <title>Comcast</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,600,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Old+Standard+TT|Open+Sans" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" />
     <link rel="stylesheet" href="css/bootstrap.css" />
     <link rel="stylesheet" href="css/comcast.css" />
+    <link rel="icon" href="asset/16FAVICON.png" type="image/gif" sizes="16x16">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="js/javaScript.js"></script>
@@ -22,9 +23,9 @@
         <div class="nav_container">
             <div>
                 <div class="logo_container">
-                    <h1>Comcast</h1>
+                    <h1>PolyCable</h1>
                     <p>Mid-Atlantic<br><span>Team 03</span></p>
-                    <div class="circle_img"><img src="asset/logo.png"></div>
+                    <div class="circle_img poly_logo"><img src="asset/src.png"></div>
                 </div>
                 <ul class="ul_list">
                     <li><a href="comcast.html" class="active">HOME</a></li>
@@ -55,15 +56,23 @@
         <!--  trading section start -->
         <div class="trad_container first_container">
             <div class="change_container">
-                <div class="background_img1">
-                    <div class="inner_container">
+                <div class="background_img1 ">
+                    <div class="inner_container popup_dots">
                         <div>
                             <span></span>
                             <span></span>
                             <span></span>
                         </div>
                     </div>
-
+                    <div class="popup_inner">
+                        <div>
+                            <div class="icon_close"><i class="fa fa-close"></i></div>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                   <div class="click-div">
                     <div class="text_container extra_container">
                         <h6>Course Performance</h6>
                         <h5><sup>+</sup><span>6</span><span class="extra">.3</span><sup>%</sup></h5>
@@ -84,7 +93,7 @@
 
                 <div class="upper_container">
                     <div class="text_upper">
-                        <i class="fa fa-close" aria-hidden="true"></i>
+                        <i class="fa fa-close" id="close_icon"  aria-hidden="true"></i>
                         <h6>Course Performance</h6>
                     </div>
                     <div class="calender_container">
@@ -98,29 +107,38 @@
                         </div>
 
                         <div class="foot_text extra_foot_text">
-                            <p>Period Begins</p>
-                            <p>03.20.17</p>
+                            <p>Period Ends</p>
+                            <p>06.28.18</p>
                         </div>
                         <div class="list_bottom">
                             <ul>
-                                <li>Top performance</li>
+                                <li>Top Performers</li>
                                 <li>Chart View</li>
-                                <li>Add to Home</li>
+                                <li>Customize My Views</li>
                             </ul>
                         </div>
                     </div>
                 </div>
             </div>
-
+            </div>
             <div class="change_container">
                 <div class="background_img2">
-                    <div class="inner_container">
+                    <div class="inner_container popup_dots">
                         <div>
                             <span></span>
                             <span></span>
                             <span></span>
                         </div>
                     </div>
+                    <div class="popup_inner second_popup">
+                        <div>
+                            <div class="icon_close"><i class="fa fa-close"></i></div>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                    <div class="click-div">
                     <div class="text_container">
                         <h6>Certification Performance</h6>
                         <h5><sup>+</sup><span>3</span><sup>%</sup></h5>
@@ -150,12 +168,12 @@
 
                         <div class="foot_text extra_foot">
                             <p>Period Ends</p>
-                            <p>03.20.18</p>
+                            <p>06.28.18</p>
                         </div>
                     </div>
                     <div class="list_bottom course_list">
                         <ul>
-                            <li><a href="" >Top performance</a></li>
+                            <li><a href="" >Top Performers</a></li>
                             <li>
                                 <div class="profile_list">
                                     <div class="img_container"><img src="asset/Hat-for-Girls.jpg"></div>
@@ -198,26 +216,36 @@
                             <li class="bg_pink_color">
                                 <div class="profile_list">
                                     <div class="img_container"><img src="asset/download.png"></div>
-                                    <div><p class="txt">View All Top Performance</p></div>
+                                    <div><p class="txt">View All Top Performers</p></div>
                                     <div></div>
                                 </div>
                             </li>
                             <li class="footer_cart"><a href="" >Chart View</a></li>
-                            <li><a href="" >Add to Home</a></li>
+                            <li><a href="" >Customize My Views</a></li>
                         </ul>
                     </div>
+                </div>
                 </div>
             </div>
 
             <div class="change_container">
-                <div class="background_img3">
-                    <div class="inner_container">
+                <div class="background_img3 ">
+                    <div class="inner_container popup_dots">
                         <div>
                             <span></span>
                             <span></span>
                             <span></span>
                         </div>
                     </div>
+                    <div class="popup_inner second_popup">
+                        <div>
+                            <div class="icon_close"><i class="fa fa-close"></i></div>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                    <div class="click-div">
                     <div class="text_container">
                         <h6>Rate of Course Completion</h6>
                         <h5><sup>+</sup><span>6</span><sup>%</sup></h5>
@@ -243,16 +271,16 @@
                         <div class="calender_container">
                             <div class="foot_text">
                                 <p>Period Begins</p>
-                                <p>03.20.17</p>
+                                <p>06.28.17</p>
                             </div>
 
                             <div class="foot_text">
-                                <p>Period Begins</p>
-                                <p>03.20.17</p>
+                                <p>Period Ends</p>
+                                <p>06.28.18</p>
                             </div>
-                            <div class="list_bottom">
+                            <div class="list_bottom chart_primary">
                                 <ul>
-                                    <li class="div_upper">Top performance</li>
+                                    <li class="div_upper">Top Performers</li>
                                     <li>Chart View</li>
                                 </ul>
                             </div>
@@ -263,25 +291,37 @@
                             <li>66%</li>
                             <li>11.30.17</li>
                             <li><span>06.28.17</span><span>06.28.18</span></li>
-                            <li>Add to Home</li>
+                            <li>Customize My Views</li>
                         </ul>
                     </div>
                 </div>
+                </div>
             </div>
 
-            <div class="change_container">
-                <div class="background_img4">
-                    <div class="inner_container">
+            <div class="change_container ">
+                <div class="background_img4 ">
+                    <div>
+                        <div class="inner_container popup_dots ">
                         <div>
                             <span></span>
                             <span></span>
                             <span></span>
                         </div>
-                    </div>
+                       </div>
+                        <div class="popup_inner third_popup">
+                            <div>
+                                <div class="icon_close"><i class="fa fa-close"></i></div>
+                            </div>
+                            <div>
+                                <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                            </div>
+                        </div>
+                        <div class="click-div">
                     <div class="text_container">
                         <h6>Course Pass/Fail Rate</h6>
                         <h5><sup>+</sup><span>9</span><sup>%</sup></h5>
                     </div>
+
                     <div class="text_container extra_class">
                         <h5><span>90</span><sup>%</sup></h5>
                     </div>
@@ -293,6 +333,8 @@
                             <img src="./asset/arrow_up.png">
                         </div>
                     </div>
+                    </div>
+
                     <div class="upper_container blue_container">
                         <div class="text_upper">
                             <i class="fa fa-close" aria-hidden="true"></i>
@@ -306,12 +348,12 @@
 
                             <div class="foot_text extra_foot">
                                 <p>Period Ends</p>
-                                <p>03.20.18</p>
+                                <p>06.28.18</p>
                             </div>
                         </div>
-                        <div class="list_bottom course_list">
+                        <div class="list_bottom course_list pro_list">
                             <ul>
-                                <li><a href="" >Top performance</a></li>
+                                <li><a href="" >Top Performers</a></li>
                                 <li>
                                     <div class="profile_list other_list_p">
                                         <div class="img_profile">
@@ -351,21 +393,22 @@
                                 <li class="bg_blue_color">
                                     <div class="profile_list">
                                         <div class="img_container"><img src="asset/download.png"></div>
-                                        <div><p class="txt">View All Top Performance</p></div>
+                                        <div><p class="txt">View All Top Performers</p></div>
                                         <div></div>
                                     </div>
                                 </li>
                                 <li class="footer_cart"><a href="" >Chart View</a></li>
-                                <li><a href="" >Add to Home</a></li>
+                                <li><a href="" >Customize My Views</a></li>
                             </ul>
                         </div>
                     </div>
+                </div>
                 </div>
             </div>
 
             <div class="change_container">
                 <div class="background_img5">
-                    <div class="inner_container">
+                    <div class="inner_container popup_dots">
                         <div>
                             <span></span>
                             <span></span>
@@ -373,6 +416,15 @@
                             <i class="fa fa-exclamation-triangle"></i>
                         </div>
                     </div>
+                    <div class="popup_inner fourth_popup">
+                        <div>
+                            <div class="icon_close"><i class="fa fa-close"></i></div>
+                        </div>
+                        <div>
+                            <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula eget dolor.</p>
+                        </div>
+                    </div>
+                    <div class="click-div">
                     <div class="text_container">
                         <h6>Avg Time per Certificate</h6>
                         <h5><sup>+</sup><span>5</span><sup>d</sup></h5>
@@ -380,11 +432,11 @@
                     <div class="text_container extra_class">
                         <h5><span>80</span><sup>d</sup></h5>
                     </div>
-                    <div class="bottom_text">
+                    <div class="bottom_text bottom_other">
                         <div>
                             <p>Team avg Time vs.Others</p>
                         </div>
-                        <div>
+                        <div class="arrow_down">
                             <img src="./asset/arrow_down.png">
                         </div>
                     </div>
@@ -401,19 +453,71 @@
                                 <p>06.28.17</p>
                             </div>
                             <div class="foot_text">
-                                <p>Period Begins</p>
+                                <p>Period Ends</p>
                                 <p>06.28.18</p>
                             </div>
                         </div>
-                        <div class="list_bottom">
+                        <div class="list_bottom course_list orange_ul">
                             <ul>
-                                <li>Top performance</li>
+                                <li><a href="" >Top Performers</a></li>
+                                <li>
+                                    <div class="profile_list">
+                                        <div class="img_container"><img src="asset/Hat-for-Girls.jpg"></div>
+                                        <div><p class="txt">karan McEiroy</p></div>
+                                        <div class="inner_container">
+                                            <div>
+                                                <span></span>
+                                                <span></span>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="bg_orange_color">
+                                    <div class="profile_list">
+                                        <div class="img_container"><img src="asset/Girls-Profile-Pictures-36.jpg"></div>
+                                        <div><p class="txt">Amanda Handricks</p></div>
+                                        <div class="inner_container">
+                                            <div>
+                                                <span></span>
+                                                <span></span>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li>
+                                    <div class="profile_list">
+                                        <div class="img_container"><img src="asset/images.jpg"></div>
+                                        <div><p class="txt">Zamir Almasi</p></div>
+                                        <div class="inner_container">
+                                            <div>
+                                                <span></span>
+                                                <span></span>
+                                                <span></span>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </li>
+                                <li class="bg_orange_color">
+                                    <div class="profile_list">
+                                        <div class="img_container"><img src="asset/download.png"></div>
+                                        <div><p class="txt">View All Top Performers</p></div>
+                                        <div></div>
+                                    </div>
+                                </li>
+                            </ul>
+                        </div>
+
+                        <div class="list_bottom org_list">
+                            <ul>
                                 <li>Chart View</li>
-                                <li>Add to Home</li>
+                                <li>Customize My Views</li>
                             </ul>
                         </div>
                     </div>
                 </div>
+            </div>
             </div>
         </div>
         <!-- trading section start -->
@@ -520,9 +624,23 @@
                     </ul>
                 </div>
             </div>
+
+            <div id='container_svg'>
+                <svg height="200" width="850">
+                    <polyline width="100%" points="0,90 40,25 60,40 80,120 120,140 200,10 220,60 240,40
+                      295,120 340,60 380,40 400,130 500,20 500,20 600,40 700,90 720,40 729,50 770,50 800,90
+                      " style="fill:none;stroke:#EC982C;stroke-width:3" />
+                </svg>
+                <svg height="200" width="850">
+<polyline width="100%" points="0,40 40,90 60,40 60,12 140,120 200,90 210,90 240,40
+280,120 300,60 310,40 400,130 450,20 500,90 600,40 700,90 720,40 729,50 770,50 800,90
+" style="fill:none;stroke:black;stroke-width:3" />
+                </svg>
+            </div>
+        </div>
         </div>
     </div>
-    <div class="footer_empty"></div>
+    <div class="container custom_container footer_empty"></div>
 </section>
 <!-- Section utilization End-->
 
