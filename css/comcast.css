@@ -5,7 +5,7 @@
     width:100%!important;
 }
 .header_section{
-    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), linear-gradient(223deg, rgba(96, 105, 126, 0.5), rgba(0, 0, 0, 0.5)), url(../asset/comcast.jpeg) no-repeat;
+    background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), linear-gradient(223deg, rgba(96, 105, 126, 0.5), rgba(0, 0, 0, 0.5)), url(../asset/polycable_header.png) no-repeat;
     background-size: cover;
     background-position: center;
 }
@@ -1898,6 +1898,14 @@ svg polyline {
     to {
         stroke-dashoffset: 0;
     }
+}
+
+#myChart a {
+    display: none;
+}
+
+.zc-ref {
+    display: none;
 }
 
 

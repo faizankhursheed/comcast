@@ -7,11 +7,11 @@ $(document).ready(function(){
     });
 
     $(".click-div").on('click',function(){
-        $('.upper_container').fadeOut();
-        $(this).parent().find('.upper_container').fadeIn();
+        $('.upper_container').slideUp();
+        $(this).parent().find('.upper_container').slideDown();
     });
     $('.text_upper i').on('click', function () {
-        $('.upper_container').fadeOut();
+        $('.upper_container').slideUp();
     })
 
     $(".popup_dots ").on('click',function(){
