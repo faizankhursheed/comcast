@@ -56,6 +56,14 @@
     margin-top:0px!important;
     margin-bottom:0px!important;
 }
+.header_section .hover_effect li:nth-child(1):hover{
+    border-top: 3px solid #DF9823;
+    border-bottom: 3px solid #DF9823;
+}
+.header_section .hover_effect li:nth-child(1){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
 .header_section .hover_effect li:nth-child(2):hover{
     border-top: 3px solid #34C9BA;
     border-bottom: 3px solid #34C9BA;
