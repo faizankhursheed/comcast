@@ -4,6 +4,7 @@
     <list default="true" id="5bd43222-b1d9-44c5-bc2c-b3dc8224c3b5" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/comcast.html" afterPath="$PROJECT_DIR$/comcast.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/comcast.css" afterPath="$PROJECT_DIR$/css/comcast.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/javaScript.js" afterPath="$PROJECT_DIR$/js/javaScript.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -27,15 +28,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="comcast.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="comcast.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/comcast.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="124">
-              <caret line="1380" column="7" lean-forward="true" selection-start-line="1380" selection-start-column="7" selection-end-line="1380" selection-end-column="7" />
-              <folding>
-                <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="n#style#0;n#polyline#0;n#svg#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="177">
+              <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="47" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -70,11 +68,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="comcast.css" pinned="false" current-in-tab="false">
+      <file leaf-file-name="comcast.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/comcast.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="498">
-              <caret line="1906" column="0" lean-forward="false" selection-start-line="1906" selection-start-column="0" selection-end-line="1906" selection-end-column="0" />
+            <state relative-caret-position="447">
+              <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -83,15 +81,15 @@
       <file leaf-file-name="javaScript.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/javaScript.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
+            <state relative-caret-position="429">
+              <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="30" />
               <folding>
-                <element signature="e#740#913#0" expanded="false" />
-                <element signature="e#916#947#0" expanded="false" />
-                <element signature="e#965#1020#0" expanded="false" />
-                <element signature="e#1023#1089#0" expanded="false" />
-                <element signature="e#1110#2924#0" expanded="false" />
-                <element signature="e#3023#3636#0" expanded="false" />
+                <element signature="e#1009#1182#0" expanded="false" />
+                <element signature="e#1185#1216#0" expanded="false" />
+                <element signature="e#1234#1289#0" expanded="false" />
+                <element signature="e#1292#1358#0" expanded="false" />
+                <element signature="e#1379#3193#0" expanded="false" />
+                <element signature="e#3292#3905#0" expanded="false" />
               </folding>
             </state>
           </provider>
@@ -110,17 +108,6 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>.header_section .trad_container .upper_container .fa-close</find>
-      <find>close</find>
-      <find>Avg. Time Per Certificate</find>
-      <find>.header_section .trad_container .blue_container</find>
-      <find>.st0</find>
-      <find>Avg Time Spent/Course</find>
-      <find>#container</find>
-      <find>profesion</find>
-      <find>#container_svg</find>
-      <find>strok</find>
-      <find>svg</find>
       <find>.header_section .nav_container div:nth-child(1) ul</find>
       <find>coursework</find>
       <find>Top performanc</find>
@@ -133,13 +120,24 @@
       <find>.header_section .upper_container .graph_container ul{}</find>
       <find>img2</find>
       <find>img3</find>
-      <find>bg_pink_color</find>
       <find>.header_section .upper_container .course_list ul li:hover</find>
       <find>orain</find>
       <find>.header_section .upper_container .course_list ul .bg_pink_color</find>
       <find>.header_section .upper_container .list_bottom ul li:hover</find>
-      <find>img1</find>
       <find>popup_dots</find>
+      <find>img1</find>
+      <find>color</find>
+      <find>Suggestions</find>
+      <find>color_text</find>
+      <find>.popup_suggestion .head_primary</find>
+      <find>color_txt</find>
+      <find>width_</find>
+      <find>text_sec</find>
+      <find>bg_pink_color</find>
+      <find>.header_section .nav_container .logo_container</find>
+      <find>ul_l</find>
+      <find>.header_section .hover_effect li:nth-child(2):hover</find>
+      <find>.header_section .hover_effect li:nth-child(2)</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -156,8 +154,8 @@
         <option value="$PROJECT_DIR$/coursework.html" />
         <option value="$PROJECT_DIR$/certification.html" />
         <option value="$PROJECT_DIR$/js/javaScript.js" />
-        <option value="$PROJECT_DIR$/css/comcast.css" />
         <option value="$PROJECT_DIR$/comcast.html" />
+        <option value="$PROJECT_DIR$/css/comcast.css" />
       </list>
     </option>
   </component>
@@ -469,12 +467,12 @@
       <workItem from="1536601678132" duration="3000" />
       <workItem from="1536601729926" duration="239000" />
       <workItem from="1536602917292" duration="31730000" />
-      <workItem from="1536824538231" duration="16004000" />
+      <workItem from="1536824538231" duration="21447000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="267418000" />
+    <option name="totallyTimeSpent" value="272861000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -486,7 +484,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21669106" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -837,21 +835,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="9" column="40" lean-forward="true" selection-start-line="9" selection-start-column="40" selection-end-line="9" selection-end-column="40" />
-          <folding>
-            <element signature="e#740#913#0" expanded="false" />
-            <element signature="e#916#947#0" expanded="false" />
-            <element signature="e#965#1020#0" expanded="false" />
-            <element signature="e#1023#1089#0" expanded="false" />
-            <element signature="e#1110#2924#0" expanded="false" />
-            <element signature="e#3023#3636#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/coursework.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
@@ -868,22 +851,34 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/comcast.css">
+    <entry file="file://$PROJECT_DIR$/js/javaScript.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="498">
-          <caret line="1906" column="0" lean-forward="false" selection-start-line="1906" selection-start-column="0" selection-end-line="1906" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="429">
+          <caret line="28" column="8" lean-forward="true" selection-start-line="28" selection-start-column="8" selection-end-line="28" selection-end-column="30" />
+          <folding>
+            <element signature="e#1009#1182#0" expanded="false" />
+            <element signature="e#1185#1216#0" expanded="false" />
+            <element signature="e#1234#1289#0" expanded="false" />
+            <element signature="e#1292#1358#0" expanded="false" />
+            <element signature="e#1379#3193#0" expanded="false" />
+            <element signature="e#3292#3905#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/comcast.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="124">
-          <caret line="1380" column="7" lean-forward="true" selection-start-line="1380" selection-start-column="7" selection-end-line="1380" selection-end-column="7" />
-          <folding>
-            <element signature="n#style#0;n#polyline#0;n#svg#0;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#polyline#0;n#svg#1;n#div#1;n#div#1;n#div#0;n#section#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="177">
+          <caret line="29" column="35" lean-forward="true" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/comcast.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="78" column="44" lean-forward="false" selection-start-line="78" selection-start-column="44" selection-end-line="78" selection-end-column="44" />
+          <folding />
         </state>
       </provider>
     </entry>

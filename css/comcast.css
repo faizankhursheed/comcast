@@ -52,7 +52,34 @@
 }.header_section .nav_container .logo_container p span{
      font-size:12px;
  }
-
+.header_section .hover_effect li a{
+    margin-top:0px!important;
+    margin-bottom:0px!important;
+}
+.header_section .hover_effect li:nth-child(2):hover{
+    border-top: 3px solid #34C9BA;
+    border-bottom: 3px solid #34C9BA;
+}
+.header_section .hover_effect li:nth-child(2){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .hover_effect li:nth-child(3):hover{
+    border-top: 3px solid #D10CF9;
+    border-bottom: 3px solid #D10CF9;
+}
+.header_section .hover_effect li:nth-child(3){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .hover_effect li:nth-child(4):hover{
+    border-top: 3px solid #B8E986;
+    border-bottom: 3px solid #B8E986;
+}
+.header_section .hover_effect li:nth-child(4){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
 .header_section .nav_container div:nth-child(1) ul{
     list-style-type: none;
     padding:0px;
@@ -1209,6 +1236,7 @@
 }
 .section_two .progress_section .color_txt{
     color:#F5A623;
+    cursor:pointer;
 }
 
 /* section insights and team completion Start*/
@@ -1899,8 +1927,63 @@ svg polyline {
         stroke-dashoffset: 0;
     }
 }
-
-
-
-
-
+/* suggestion  */
+.with_popup{
+    position:relative;
+}
+.popup_suggestion{
+    position: absolute;
+    top:0px;
+    display: none;
+    z-index:1;
+}
+head_primary .fa-close{
+    cursor: pointer;
+}
+.popup_suggestion .head_primary {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgba(37, 45, 62, 0.9);
+    padding: 16px 20px
+}
+.popup_suggestion .head_primary .fa-exclamation-triangle{
+    color:#F5A62C;
+    font-size:22px;
+}
+.popup_suggestion .head_primary span,.fa{
+    color:#F5A62C!important;
+}
+.popup_suggestion .head_primary span{
+    margin-right:10px;
+}
+.popup_suggestion .text_section p{
+    color:#fff;
+    opacity:0.7;
+    font-size:14px;
+    font-family: 'Roboto', sans-serif;
+    padding:12px 14px;
+}
+.popup_suggestion .two_buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.popup_suggestion .two_buttons button{
+    display:inline-block;
+}
+.popup_suggestion .two_buttons .btns{
+    padding: 11px 27px;
+    margin: 5px;
+    color: #fff;
+    font-size: 18px;
+    border: none;
+}
+.popup_suggestion .second_container{
+    background-color: rgb(57, 64, 84 );
+    padding:15px 15px;
+}
+.popup_suggestion .two_buttons .btn_orange{
+     background:#F5A623;
+}
+.popup_suggestion .two_buttons .btn_gray{
+    background:#323B52;
+}
