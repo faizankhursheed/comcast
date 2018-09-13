@@ -28,10 +28,10 @@
     margin-left: 19px;
     overflow: hidden;
 }
- .header_section .nav_container .logo_container .poly_logo{
-     border:none;
-     overflow: visible;
- }
+.header_section .nav_container .logo_container .poly_logo{
+    border:none;
+    overflow: visible;
+}
 .header_section .nav_container .logo_container img{
     width: 100%;
 }
@@ -151,9 +151,9 @@
     position:relative;
     top:-3px;
 }
- .header_section .bottom_other p{
-     padding-top:2px!important;
- }
+.header_section .bottom_other p{
+    padding-top:2px!important;
+}
 .header_section .trad_container{
     display: flex;
     margin-top:10px;
@@ -464,8 +464,11 @@
 .header_section .upper_container .list_bottom ul .div_upper{
     opacity: 0.5;
 }
-.header_section .upper_container .list_bottom ul li:hover{
+.header_section .upper_container .foot_first ul li:hover{
     background:#2DBF16;
+}
+.header_section .upper_container .green_ul ul li:hover{
+    background:#2DBF16!important;
 }
 .header_section  .upper_container .list_bottom ul li{
     color:#fff;
@@ -572,6 +575,9 @@
 }
 .header_section .upper_container .course_list ul .bg_orange_color{
     background:#FEAC2C;
+}
+.header_section .upper_container .course_list ul .bg_green_color{
+    background:#2DBF16;
 }
 .header_section .upper_container .pro_list ul li:hover{
     background:#2d75e4;
@@ -705,6 +711,10 @@
 .popup_dots .inner_container{
     position:relative;
 }
+.popup_dots{
+    cursor:pointer;
+}
+
 .popup_inner{
     position: absolute;
     background-color: rgba(37, 45, 62, 0.9);
@@ -713,13 +723,14 @@
     padding:7px;
     top: 50px;
     display:none;
+
 }
 .popup_inner .fa{
     color:#FF3366;
     float: right;
 }
 .popup_inner p{
-   color:#fff;
+    color:#fff;
     margin-top:10px;
     font-family: 'Roboto', sans-serif;
     font-weight: lighter;
