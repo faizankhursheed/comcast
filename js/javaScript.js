@@ -1,9 +1,9 @@
 $(document).ready(function(){
     $(".close_icon").click(function(){
-        $(".click_to_show").hide();
+        $(".click_to_show").fadeOut();
     });
     $(".add_more").click(function(){
-        $(".click_to_show").show();
+        $(".click_to_show").fadeIn();
     });
 
     $(".click-div").on('click',function(){
@@ -20,6 +20,14 @@ $(document).ready(function(){
     });
     $('.icon_close i').on('click', function () {
         $('.popup_inner').fadeOut();
+    })
+
+    $(".color_txt ").on('click',function(){
+        $('.popup_suggestion').fadeOut();
+        $(this).parent().find('.popup_suggestion').fadeIn();
+    });
+    $('.head_primary .fa-close').on('click', function () {
+        $('.popup_suggestion').fadeOut();
     })
 });
 
