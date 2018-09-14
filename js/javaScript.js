@@ -31,8 +31,34 @@ $(document).ready(function(){
     })
 
         $( ".click_calender" ).click(function() {
+            $(this).toggleClass("head_tex");
             $(this).parent().find('.calender_wrapper').slideToggle();
         });
+
+
+    $( ".click_performers" ).click(function() {
+        $(this).parent().find('.first_three').slideToggle();
+
+    });
+    $( ".view_all" ).click(function() {
+        $('.last_seven').slideToggle();
+    });
+
+/* graph view
+    $( ".chart_view" ).click(function() {
+        $(".graph_container").show();
+        $('.purple_container').css("min-width","807px");
+        $('.outer_container').css("width" ,"33.3%");
+
+        $(".graph_container").click(function(){
+            $(".graph_container").hide();
+            $('.purple_container').css("min-width","100%");
+            $('.outer_container').css("width" ,"100%");
+        });
+
+
+    });
+    /* graph view */
 
 });
 
