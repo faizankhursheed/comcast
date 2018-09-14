@@ -2,7 +2,7 @@ var myConfig = {
     backgroundColor:'transparent',
     type: "ring",
     plot: {
-        slice:'60%',
+        slice:'55%',
         borderWidth:0,
         animation:{
             effect:2,
@@ -12,9 +12,9 @@ var myConfig = {
     series : [
         {
             text: "Docs",
-            values : [106541],
-            backgroundColor: "#00BAF2",
+            values : [66541],
             lineWidth: 1,
+            backgroundColor: '#00BAF2',
             marker: {
                 backgroundColor: '#00BAF2'
             }
@@ -40,19 +40,37 @@ var myConfig = {
         {
             text: "Index",
             values : [43781],
-            backgroundColor: "#23af11",
+            backgroundColor: "#af4cab",
             lineWidth: 1,
             marker: {
-                backgroundColor: '#9B26AF'
+                backgroundColor: '#af4cab'
             }
         },
         {
             text: "Index",
             values : [43781],
+            backgroundColor: "#23af11",
+            lineWidth: 1,
+            marker: {
+                backgroundColor: '#23af11'
+            }
+        },
+        {
+            text: "Index",
+            values : [42781],
+            backgroundColor: "#23afaf",
+            lineWidth: 1,
+            marker: {
+                backgroundColor: '#23afaf'
+            }
+        },
+        {
+            text: "Index",
+            values : [33781],
             backgroundColor: "#af9016",
             lineWidth: 1,
             marker: {
-                backgroundColor: '#9B26AF'
+                backgroundColor: '#af9016'
             }
         }
     ]
@@ -63,8 +81,8 @@ zingchart.render({
     data: {
         graphset: [myConfig]
     },
-    height: '300',
-    width: '50%'
+    height: '246',
+    width: '233'
 });
 
 zingchart.MODULESDIR = "https://cdn.zingchart.com/modules/";

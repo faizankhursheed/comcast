@@ -1,3 +1,45 @@
+/* Animations START*/
+@-webkit-keyframes rotateIn {
+    from {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: rotate3d(0, 0, 1, -200deg);
+        transform: rotate3d(0, 0, 1, -200deg);
+        opacity: 0;
+    }
+
+    to {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
+
+@keyframes rotateIn {
+    from {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: rotate3d(0, 0, 1, -200deg);
+        transform: rotate3d(0, 0, 1, -200deg);
+        opacity: 0;
+    }
+
+    to {
+        -webkit-transform-origin: center;
+        transform-origin: center;
+        -webkit-transform: translate3d(0, 0, 0);
+        transform: translate3d(0, 0, 0);
+        opacity: 1;
+    }
+}
+
+.rotateIn {
+    -webkit-animation-name: rotateIn;
+    animation: rotateIn 2s forwards;
+}
+/* Animations END*/
 /* Header section START */
 .custom_container{
     padding:0px!important;
@@ -795,7 +837,7 @@
 }
 .section_utilization .img_container{
     background-image: url("../asset/bg.png");
-    background-size: 100% 100%;
+    background-size: cover;
 }
 
 .section_utilization .inner_container{
@@ -1995,4 +2037,14 @@ head_primary .fa-close{
 }
 .popup_suggestion .two_buttons .btn_gray{
     background:#323B52;
+}
+#myChart-wrapper{
+    bottom: 39px;
+}
+#myChart tspan{
+    font-size: 12px!important;
+}
+#myChart{
+    height: 246px;
+    width: 233px;
 }
