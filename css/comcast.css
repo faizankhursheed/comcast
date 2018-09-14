@@ -52,6 +52,8 @@
 }.header_section .nav_container .logo_container p span{
      font-size:12px;
  }
+
+ /* hover effect */
 .header_section .hover_effect li a{
     margin-top:0px!important;
     margin-bottom:0px!important;
@@ -80,6 +82,100 @@
     border-top: 3px solid transparent;
     border-bottom: 3px solid transparent;
 }
+/* course work effect */
+.header_section .course_effect li a{
+    margin-top:0px!important;
+    margin-bottom:0px!important;
+}
+.header_section .course_effect li:nth-child(1):hover{
+    border-top: 3px solid #DD9722;
+    border-bottom: 3px solid #DD9722;
+}
+.header_section .course_effect li:nth-child(1){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+
+.header_section .course_effect li:nth-child(3):hover{
+    border-top: 3px solid #C414EA;
+    border-bottom: 3px solid #C414EA;
+}
+.header_section .course_effect li:nth-child(3){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .course_effect li:nth-child(4):hover{
+    border-top: 3px solid #B8E986;
+    border-bottom: 3px solid #B8E986;
+}
+.header_section .course_effect li:nth-child(4){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+
+
+.header_section .certificate_effect li a{
+    margin-top:0px!important;
+    margin-bottom:0px!important;
+}
+
+.header_section .certificate_effect li:nth-child(1):hover{
+    border-top: 3px solid #DD9722;
+    border-bottom: 3px solid #DD9722;
+}
+.header_section .certificate_effect li:nth-child(1){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .certificate_effect li:nth-child(2):hover{
+    border-top: 3px solid #34C9BA;
+    border-bottom: 3px solid #34C9BA;
+}
+.header_section .certificate_effect li:nth-child(2){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .certificate_effect li:nth-child(4):hover{
+    border-top: 3px solid #A7D47B;
+    border-bottom: 3px solid #A7D47B;
+}
+.header_section .certificate_effect li:nth-child(4){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+
+.header_section .chapter_effect li a{
+    margin-top:0px!important;
+    margin-bottom:0px!important;
+}
+.header_section .chapter_effect li:nth-child(1):hover{
+    border-top: 3px solid #DD9722;
+    border-bottom: 3px solid #DD9722;
+}
+.header_section .chapter_effect li:nth-child(1){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .chapter_effect li:nth-child(2):hover{
+    border-top: 3px solid #34C9BA;
+    border-bottom: 3px solid #34C9BA;
+}
+.header_section .chapter_effect li:nth-child(2){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+.header_section .chapter_effect li:nth-child(3):hover{
+    border-top: 3px solid #C414EA;
+    border-bottom: 3px solid #C414EA;
+}
+.header_section .chapter_effect li:nth-child(3){
+    border-top: 3px solid transparent;
+    border-bottom: 3px solid transparent;
+}
+/* hover effect */
+
+
+
 .header_section .nav_container div:nth-child(1) ul{
     list-style-type: none;
     padding:0px;
@@ -342,7 +438,18 @@
 /*
  * Calendar
  */
-.calendar {
+.click_calender{
+    cursor:pointer;
+}
+.calender_wrapper{
+    display: none;
+}
+.calender-txt{
+    padding-top:0px!important;
+    padding-bottom:0px!important;
+}
+
+#calendar {
     padding: 10px;
     color: #fff;
     font-family: "Montserrat", sans-serif;
@@ -1040,6 +1147,9 @@
 .section_two .chat_container_o{
     padding: 40px 0px 0px 40px;
 }
+.section_two .chat_box:hover{
+    box-shadow: 0px 1px 8px 10px #63626212;
+}
 .section_two .chat_container_o .chat_box:first-child{
     top:0px!important;
 }
@@ -1050,27 +1160,74 @@
     top:-53px!important;
 }
 .section_two .chat_container_o .chat_box:nth-child(odd){
-    background-image: url("../asset/c1.png");
-    background-repeat: no-repeat;
-    background-size:100% 100%;
+    background:#444E68;
     max-width: 415px;
     position: relative;
     top: -30px;
+    margin-top:34px;
+}
+.section_two .chat_container_o .chat_box:nth-child(odd) p:after{
+    content: '';
+    border-left: 31px solid transparent;
+    border-right: 0px solid transparent;
+    border-top: 24px solid #444e68;
+    position: absolute;
+    top: 165px;
+    left: 34px;
+}
+ .section_two .chat_container_o .chat_after{
+     margin-top:49px!important;
+ }
+.section_two .chat_container_o .chat_box:nth-child(even) p:after{
+    content: '';
+    border-left: 0px solid transparent;
+    border-right: 31px solid transparent;
+    border-top: 24px solid #404a62;
+    position: absolute;
+    top: 165px;
+    right:23px;
 }
 
+.section_two .chat_container_o .course_2 p:after{
+    top:190px!important;
+}
+.section_two .chat_container_o .course_3{
+    margin-top:49px!important;
+}
+.section_two .chat_container_o .course_3 p:after{
+    top:142px!important;
+}
+.section_two .chat_container_o .course_5 p:after{
+    top:142px!important;
+}
+.section_two .chat_container_o .certificate_2 p:after{
+    top:190px!important;
+}
+.section_two .chat_container_o .certificate_3{
+   margin-top: 45px;;
+}
+.section_two .chat_container_o .certificate_3 p:after{
+    top:142px!important;
+}
+.section_two .chat_container_o .certificate_5{
+    margin-top:17px!important;
+}
+.section_two .chat_container_o .certificate_5 p:after{
+    top:142px!important;
+}
 .section_two .chat_container_o .chat_box:nth-child(even){
-    background-image: url("../asset/c2.png");
-    background-repeat: no-repeat;
-    background-size:100% 100%;
+    background:#444E68;
     max-width: 415px;
     margin-left: 117px;
     position: relative;
     top: -41px;
+    margin-top:42px;
+    margin-buttom:15px;
 }
 .section_two .chat_container_o .chat_box p{
     color:#8D97B1;
     font-size:17px;
-    padding: 29px 94px 70px 56px;
+    padding: 29px 88px 41px 56px;
     font-family: 'Roboto', sans-serif;
 }
 .section_two .chat_container_o .chat_box p span{
@@ -1255,6 +1412,8 @@
 }
 .header_section .nav_container div:nth-child(1) .coursework_list li:nth-child(1){
     margin-top:2px;
+    position: relative;
+    top: -2px;
 }
 .header_section .nav_container div:nth-child(1) .coursework_list li .active{
     border-top:3px solid #31D6C4;
@@ -1959,7 +2118,10 @@ head_primary .fa-close{
     color:#F5A62C;
     font-size:22px;
 }
-.popup_suggestion .head_primary span,.fa{
+.popup_suggestion .head_primary span{
+    color:#F5A62C!important;
+}
+.popup_suggestion .head_primary .fa-close{
     color:#F5A62C!important;
 }
 .popup_suggestion .head_primary span{

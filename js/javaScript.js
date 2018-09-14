@@ -29,6 +29,11 @@ $(document).ready(function(){
     $('.head_primary .fa-close').on('click', function () {
         $('.popup_suggestion').fadeOut();
     })
+
+        $( ".click_calender" ).click(function() {
+            $(this).parent().find('.calender_wrapper').slideToggle();
+        });
+
 });
 
 
@@ -243,7 +248,6 @@ class Calendar {
         }
 
         this._selectedDate = date;
-
         this.reset();
     }
 
@@ -386,7 +390,6 @@ class Calendar {
                     ),
                 },
             });
-
             this._root.dispatchEvent(event);
         }
     });
@@ -471,7 +474,6 @@ window.onload = () => {
     const calendarElem = document.getElementById('calendar');
     if (calendarElem != null) {
         const today = new Date();
-
         const calendar = new Calendar(calendarElem, {
             minDate: new Date(
                 today.getFullYear(),
@@ -486,9 +488,214 @@ window.onload = () => {
         });
 
         calendarElem.addEventListener(Events.DATE_SELECTED, (event) => {
-            calendar.setDate(event.detail.date);
-    });
+          calendar.setDate(event.detail.date);
+
+        });
     }
+    const calendaraElem = document.getElementById('calendar1');
+    if (calendaraElem != null) {
+        const today = new Date();
+
+        const calendara = new Calendar(calendaraElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+
+        calendaraElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendara.setDate(event.detail.date);
+        });
+    }
+
+
+
+    const calendareElem = document.getElementById('calendar2');
+    if (calendareElem != null) {
+        const today = new Date();
+
+        const calendare = new Calendar(calendareElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendareElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendare.setDate(event.detail.date);
+        });
+    }
+
+
+    const calendardElem = document.getElementById('calendar3');
+    if (calendardElem != null) {
+        const today = new Date();
+
+        const calendard = new Calendar(calendardElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendardElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendard.setDate(event.detail.date);
+        });
+    }
+
+
+    const calendariElem = document.getElementById('calendar4');
+    if (calendariElem != null) {
+        const today = new Date();
+
+        const calendari = new Calendar(calendariElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendariElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendari.setDate(event.detail.date);
+        });
+    }
+
+    const calendarrElem = document.getElementById('calendar5');
+    if (calendarrElem != null) {
+        const today = new Date();
+
+        const calendarr = new Calendar(calendarrElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendarrElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendarr.setDate(event.detail.date);
+        });
+    }
+
+    const calendarpElem = document.getElementById('calendar6');
+    if (calendarrElem != null) {
+        const today = new Date();
+
+        const calendarp = new Calendar(calendarpElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendarpElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendarp.setDate(event.detail.date);
+        });
+    }
+
+    const calendarhElem = document.getElementById('calendar7');
+    if (calendarhElem != null) {
+        const today = new Date();
+
+        const calendarh = new Calendar(calendarhElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendarhElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendarh.setDate(event.detail.date);
+        });
+    }
+
+    const calendarsElem = document.getElementById('calendar8');
+    if (calendarsElem != null) {
+        const today = new Date();
+
+        const calendars = new Calendar(calendarsElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendarsElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendars.setDate(event.detail.date);
+        });
+    }
+
+
+    const calendarlElem = document.getElementById('calendar9');
+    if (calendarlElem != null) {
+        const today = new Date();
+
+        const calendarl = new Calendar(calendarlElem, {
+            minDate: new Date(
+                today.getFullYear(),
+                today.getMonth(),
+                today.getDate()
+            ),
+            maxDate: new Date(
+                today.getFullYear() + 1,
+                today.getMonth(),
+                today.getDate()
+            ),
+        });
+
+        calendarlElem.addEventListener(Events.DATE_SELECTED, (event) => {
+            calendarl.setDate(event.detail.date);
+        });
+    }
+
 };
 
 
